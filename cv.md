@@ -43,8 +43,8 @@
 ## Education
 * Bachelor of Maths, Krasnoyarsk State University (1996-2000)
 * Stepic Certs
-  * [Java](https://stepik.org/cert/484608)
-  * [Linux](https://stepik.org/cert/108618)
+  * [Java. Base course](https://stepik.org/cert/484608)
+  * [Introduction to Linux](https://stepik.org/cert/108618)
 
 ## Languages
 * Russian (native)
