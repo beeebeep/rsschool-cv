@@ -5,6 +5,9 @@
 ![mobile phone number](images/pn.png)
 
 ## Personality
+In addition to programming, I am interested in robotics.
+I want to create a fully automated modern ecological self-stated city. In this city people won't need to work for money, but for current over-the-world goals. They will live in peace and will have all they need. I like ideas of resource oriented economy.
+I think that nowadays there are many people with the same thoughts.
 
 ## Skills
 * Comp langs
