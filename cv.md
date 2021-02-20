@@ -7,18 +7,17 @@
 ## Personality
 
 ## Skills
-** Comp langs
-* Turbo-assembler (self eduction, last time ~1999)
-* Turbo-prolog (university program)
-* Turbo-pascal (university program)
-* Borland Delphi (university program)
-* Borland C++ Builder 6.0 (productive)
-* C# (university program)
-* Java (in progress)
-** CLI automation (cmd, ps)
-** SOLID, KISS, DRY, YAGNI
-** Programming patterns (in progress)
-** Soldering (a little)
+* Comp langs
+  * Turbo-assembler (self eduction, last time ~1999)
+  * Turbo-prolog (university program)
+  * Turbo-pascal (university program)
+  * Borland Delphi (university program)
+  * Borland C++ Builder 6.0 (productive)
+  * C# (university program)
+  * Java (in progress)
+* CLI automation (cmd, ps)
+* SOLID, KISS, DRY, YAGNI
+* Programming patterns (in progress)
 
 ## Code samples
 
@@ -44,8 +43,8 @@
 ## Education
 * Bachelor of Maths, Krasnoyarsk State University (1996-2000)
 * Stepic Certs
- - https://stepik.org/cert/484608
- - https://stepik.org/cert/108618
+  * [Java](https://stepik.org/cert/484608)
+  * [Linux](https://stepik.org/cert/108618)
 
 ## Languages
 * Russian (native)
