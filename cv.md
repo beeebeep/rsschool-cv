@@ -42,13 +42,13 @@ I think that nowadays there are many people with the same thoughts.
 ```
 
 ## Work Experience (all in Krasnoaysk and Krasnoaysk region)
-2000-2003: Registration, analyze and processing of blood components (Interbase (Firebird), Borland C++ Builder)
-2004-2009: Product for delivery service (C#, Access DB, 1S twosided data exchange, DIY CI/CD system, DIY messaging binary protocol, GPS coordinates processing. My part is multithreading server).
-2010-2018: NDA
-2019-2020: IK Sibintek, Ltd (C#, Oracle)
+- 2000-2003: Registration, analyze and processing of blood components (Interbase (Firebird), Borland C++ Builder)
+- 2004-2009: Product for delivery service (C#, Access DB, 1S twosided data exchange, DIY CI/CD system, DIY messaging binary protocol, GPS coordinates processing. My responsability was the multithreading server)
+- 2010-2018: NDA
+- 2019-2020: IK Sibintek, Ltd (C#, Oracle)
 
 ## Education
-* Bachelor of Maths, Krasnoyarsk State University (1996-2000)
+* Bachelor of Maths (applied mathematics and informatics), Krasnoyarsk State University (1996-2000)
 * Stepic Certs
   * [Java. Base course](https://stepik.org/cert/484608)
   * [Introduction to Linux](https://stepik.org/cert/108618)
