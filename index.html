@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/index.css" />
+    <title>Sergey Sapunov CV</title>
+</head>
+
+<body>
+    <main class="cv-container">
+        <header>
+            <h1>Sergey Sapunov</h1>
+            <div>
+                <img id="sapunov" src="images/me.jpg" alt="that's me">
+            </div>
+        </header>
+        <section>
+            <h2>Contacts</h2>
+            <p>
+                <img class="emailpic" src="images/m.png" alt="email">
+                <img class="phonepic" src="images/pn.png" alt="mobile phone number">
+            </p>
+        </section>
+        <section>
+            <h2>Personality</h2>
+            <p>
+                In addition to programming, I am interested in robotics. I want to
+                create a fully automated modern ecological self-stated city. In this
+                city people won't need to work for money, but for current
+                over-the-world goals. They will live in peace and will have all they
+                need. I like ideas of resource oriented economy. I think that nowadays
+                there are many people with the same thoughts.
+            </p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Comp langs
+                    <ul>
+                        <li>Turbo-assembler (self eduction, last time ~1999)</li>
+                        <li>Turbo-prolog (university program)</li>
+                        <li>Turbo-pascal (university program)</li>
+                        <li>Borland Delphi (university program)</li>
+                        <li>Borland C++ Builder 6.0 (productive)</li>
+                        <li>C# (productive)</li>
+                        <li>Java (in progress)</li>
+                    </ul>
+                </li>
+                <li>CLI automation (cmd, ps)</li>
+                <li>SOLID, KISS, DRY, YAGNI</li>
+                <li>Programming patterns (in progress)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Code samples</h2>
+            <pre><code>String idToShortURL(int n) {
+    char[] map = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789".toCharArray();
+    if (n == 0) {
+        return "a";
+    }
+    StringBuilder shortUrl = new StringBuilder();
+    while (n > 0) {
+        shortUrl.append(map[n % 62]);
+        n = n / 62;
+    }
+    return shortUrl.reverse().toString();
+}
+</code></pre>
+        </section>
+        <section>
+            <h2>Work Experience (all in Krasnoaysk and Krasnoaysk region)</h2>
+            <ul>
+                <li>2000-2003: Registration, analyze and processing of blood components
+                    (Interbase (Firebird), Borland C++ Builder)</li>
+                <li>2004-2009: Product for
+                    delivery service (C#, Access DB, 1S two-sided data exchange, DIY CI/CD
+                    system, DIY messaging binary protocol, GPS coordinates processing. My
+                    responsability was the multithreading server)</li>
+                <li>2010-2018: NDA</li>
+                <li>2019-2020: IK Sibintek, Ltd (C#, Oracle)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Bachelor of Maths (applied mathematics and informatics),
+                    Krasnoyarsk State University (1996-2000)</li>
+                <li>Stepic Certs
+                    <ul>
+                        <li><a href="https://stepik.org/cert/484608">Java. Base course</a></li>
+                        <li><a href="https://stepik.org/cert/108618">Introduction to Linux</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Languages</h2>
+            <ul>
+                <li>Russian (native)</li>
+                <li>English (B1)</li>
+                <li>German (A1)</li>
+            </ul>
+        </section>
+    </main>
+</body>
+
+</html>
